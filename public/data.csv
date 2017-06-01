@@ -1,0 +1,5 @@
+id, person, location, startDate, endDate, activity
+1, Person 1, Plats 1, 2017-05-29 10:00:00, 2017-05-29 12:00:00, Möte
+2, Person 2, Plats 2, 2017-05-29 13:00:00, 2017-05-29 16:00:00, Möte
+3, Person 3, Plats 3, 2017-05-29 12:00:00, 2017-05-29 13:00:00, Lunch
+4, Vilberg, Heurlins Plats, 2017-06-15 12:00:00, 2017-06-15 13:00:00, Möte
