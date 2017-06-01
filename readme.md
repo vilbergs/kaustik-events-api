@@ -4,7 +4,7 @@
 
 ### Environment
 
-Save the .env.example file as .env and update the Environment variables
+Save the .env.example file as .env and update the Environment variables with your database information
 
 ### Migrate Database Tables
 
